@@ -1,0 +1,1 @@
+--Realizar un trigger de base de datos que haga que el valor del campo total_compra de todas las tuplas de la tabla tprovincia sea igual a la suma de los valores de los campos compras de todos los clientes de cada provincia cuando se ciere la sesión--
