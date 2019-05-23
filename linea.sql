@@ -1,5 +1,5 @@
 create table linea(
-	num_ped		number(2),
+	num_ped		varchar2(7),
 	num_lin		number(2),
 	fecha_par	date,
 	fecha_des	date,
