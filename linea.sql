@@ -1,5 +1,5 @@
 create table linea(
-	num_pedo		number(10),
+	num_ped		number(2),
 	num_lin		number(2),
 	fecha_par	date,
 	fecha_des	date,
